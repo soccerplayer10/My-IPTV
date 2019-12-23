@@ -1,88 +1,52 @@
 #EXTM3U
 
-#EXTINF:-1,US | ABC HD
-http://190.2.141.151:8000/rPbjAdNEV8/8HVoIgimXV/16395
-#EXTINF:-1,US | ABC news
-http://190.2.141.151:8000/rPbjAdNEV8/8HVoIgimXV/11674
-#EXTINF:-1,US: CBS
-http://190.2.141.151:8000/rPbjAdNEV8/8HVoIgimXV/11664
-#EXTINF:-1,US: CBS 2
-http://190.2.141.151:8000/rPbjAdNEV8/8HVoIgimXV/11663
-#EXTINF:-1,US: CBSN HD
-http://190.2.141.151:8000/rPbjAdNEV8/8HVoIgimXV/11662
-#EXTINF:-1,US: CNBC
-http://190.2.141.151:8000/rPbjAdNEV8/8HVoIgimXV/11659
-#EXTINF:-1,US: CW HD
-http://190.2.141.151:8000/rPbjAdNEV8/8HVoIgimXV/11657
-#EXTINF:-1,US: Fox HD
-http://190.2.141.151:8000/rPbjAdNEV8/8HVoIgimXV/11653
-#EXTINF:-1,US: Fox News
-http://190.2.141.151:8000/rPbjAdNEV8/8HVoIgimXV/11652
-#EXTINF:-1,US | A&E
-http://190.2.141.151:8000/rPbjAdNEV8/8HVoIgimXV/11675
-#EXTINF:-1,US: AMC
-http://190.2.141.151:8000/rPbjAdNEV8/8HVoIgimXV/11670
-#EXTINF:-1,US: TNT HD
-http://190.2.141.151:8000/rPbjAdNEV8/8HVoIgimXV/11617
-#EXTINF:-1,US: USA Network
-http://190.2.141.151:8000/rPbjAdNEV8/8HVoIgimXV/11609
-#EXTINF:-1,US: SyFy HD
-http://190.2.141.151:8000/rPbjAdNEV8/8HVoIgimXV/11622
-#EXTINF:-1,US: TBS
-http://190.2.141.151:8000/rPbjAdNEV8/8HVoIgimXV/11621
-#EXTINF:-1,US: TBS HD
-http://190.2.141.151:8000/rPbjAdNEV8/8HVoIgimXV/11620
-#EXTINF:-1,US: Freeform HD
-http://190.2.141.151:8000/rPbjAdNEV8/8HVoIgimXV/11649
-#EXTINF:-1,US: Bravo HD
-http://190.2.141.151:8000/rPbjAdNEV8/8HVoIgimXV/11665
-#EXTINF:-1,US: Animal Planet
-http://190.2.141.151:8000/rPbjAdNEV8/8HVoIgimXV/11669
-#EXTINF:-1,US: ESPN 2 HD
-http://190.2.141.151:8000/rPbjAdNEV8/8HVoIgimXV/11656
-#EXTINF:-1,US: ESPN HD
-http://190.2.141.151:8000/rPbjAdNEV8/8HVoIgimXV/11655
-#EXTINF:-1,US: ESPN U HD
-http://190.2.141.151:8000/rPbjAdNEV8/8HVoIgimXV/22661
-#EXTINF:-1,US: Bein Sports USA HD
-http://190.2.141.151:8000/rPbjAdNEV8/8HVoIgimXV/11668
-#EXTINF:-1,US: CNN HD
-http://190.2.141.151:8000/rPbjAdNEV8/8HVoIgimXV/11658
-#EXTINF:-1,US | Discovery Channel
-http://190.2.141.151:8000/rPbjAdNEV8/8HVoIgimXV/14227
-#EXTINF:-1,US | Discovery Science
-http://190.2.141.151:8000/rPbjAdNEV8/8HVoIgimXV/14228
-#EXTINF:-1,US: HBO
-http://190.2.141.151:8000/rPbjAdNEV8/8HVoIgimXV/11648
-#EXTINF:-1,US: HBO Comedy
-http://190.2.141.151:8000/rPbjAdNEV8/8HVoIgimXV/11647
-#EXTINF:-1,US: HBO Family
-http://190.2.141.151:8000/rPbjAdNEV8/8HVoIgimXV/11646
-#EXTINF:-1,US: HBO SIGNATURE
-http://190.2.141.151:8000/rPbjAdNEV8/8HVoIgimXV/11645
-#EXTINF:-1,US: HBO ZONE
-http://190.2.141.151:8000/rPbjAdNEV8/8HVoIgimXV/11644
-#EXTINF:-1,US: History Channel
-http://190.2.141.151:8000/rPbjAdNEV8/8HVoIgimXV/11643
-#EXTINF:-1,US: Max West
-http://190.2.141.151:8000/rPbjAdNEV8/8HVoIgimXV/11641
-#EXTINF:-1,US: Mello TV
-http://190.2.141.151:8000/rPbjAdNEV8/8HVoIgimXV/11640
-#EXTINF:-1,US: National Geographic
-http://190.2.141.151:8000/rPbjAdNEV8/8HVoIgimXV/11639
-#EXTINF:-1,US | NFL Network
-http://190.2.141.151:8000/rPbjAdNEV8/8HVoIgimXV/16345
-#EXTINF:-1,US | NFL Redzone
-http://190.2.141.151:8000/rPbjAdNEV8/8HVoIgimXV/16346
-#EXTINF:-1,US | NHL Network HD
-http://190.2.141.151:8000/rPbjAdNEV8/8HVoIgimXV/13989
-#EXTINF:-1,US: NBA HD
-http://190.2.141.151:8000/rPbjAdNEV8/8HVoIgimXV/11638
-#EXTINF:-1,US: NBC Golf HD
-http://190.2.141.151:8000/rPbjAdNEV8/8HVoIgimXV/11637
-#EXTINF:-1,US: NBC HD
-http://190.2.141.151:8000/rPbjAdNEV8/8HVoIgimXV/11636
-#EXTINF:-1,US: NBC HD  US
-http://190.2.141.151:8000/rPbjAdNEV8/8HVoIgimXV/11635
-#EXTINF:-1,US: NBCSN
-http://190.2.141.151:8000/rPbjAdNEV8/8HVoIgimXV/11634
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pMhTxmf.png" group-title="USA",CBS (WFOR) (Opt-1)
+http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pMhTxmf.png" group-title="USA",CBS (WFOR) (Opt-2)
+http://190.80.3.28/CBS/CBS.isml/index.m3u
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zGUrIlJ.png" group-title="USA",NBC (WTVJ) (EST)
+http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="USA",ABC (KABC) (PST)
+http://content-ausc1.uplynk.com/channel/7f4366ed88e344da86947eb0fa080ec2/f.m3u8?exp=1527750966&ct=c&cid=7f4366ed88e344da86947eb0fa080ec2&sig=37af99214f85e55b1dfbec4030d06a8dee848131f8be1421ef36fbbae30e5387&pbs=cc5c74a2900d47b48ce4ec207b247a2d
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="USA",ABC (WPLG) (EST)
+http://190.80.3.28/ABC/ABC.isml/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n38w3FD.png" group-title="USA",Stadium
+https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AjnHVZw.png" group-title="USA",Cartoons 4U
+https://edge1.dashmedia.tv/onestudio/cartoons_4u/playlist.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="http://cineframe.mx/wp-content/uploads/2017/08/H2.png" group-title="USA",H2
+http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ESnlHMY.png" group-title="USA",Kartoon Fun Time (Opt-1)
+https://edge1.dashmedia.tv/onestudio/kartoonfuntime/playlist.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ESnlHMY.png" group-title="USA",Kartoon Fun Time (Opt-2)
+https://nimble.dashmedia.tv/onestudio/kartoonfuntime/playlist.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wfqt9BS.png" group-title="USA",Nat Geo People
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h0NNZ2U.png" group-title="USA",Nat Geo Wild
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bUepAp5.png" group-title="USA",National Geographic
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/29c778_7ed6e418c0574ea38b1ff303f8a23041~mv2.png" group-title="LABEL",~ Panama TV ~
+http://www.lengua.com/anthems/Panama.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://panamajazzfestival.com/wp-content/uploads/2015/11/nextv.png" group-title="PANAMA",NexTV
+http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oZpbyy5.png" group-title="PANAMA",Panavision
+http://vcp1.myplaytv.com:1935/panavision/panavision/chunklist_w2101755274.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SsSLnJC.png" group-title="PANAMA",SerTV
+https://accionastream.com/live/sertv/chunklist_w1815341125.m3u8
